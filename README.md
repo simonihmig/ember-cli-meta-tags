@@ -27,11 +27,11 @@ ember install ember-cli-meta-tags
 ### Using with Ember Fastboot
 
 Version 4.0+ of this addon is designed to work with Fastboot >= 1.0.0-rc1. If you use
-an order version of fastboot stick with 3.X.
+an older version of FastBoot stick with 3.X.
 
 Version 2.0+ of this addon is built upon
 [ember-cli-head](https://github.com/ronco/ember-cli-head) and as a
-result is will work automatically out of the box with Ember Fastboot
+result it will work automatically out of the box with Ember FastBoot
 if you are running a version of ember >= 2.7.
 
 #### Using with other ember-cli-head addons
